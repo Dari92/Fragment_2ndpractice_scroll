@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">2nd_practice_fragments</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt1">Welcome to this view, lets see if it works</string>
+    <string name="txt2">Running....</string>
+    <string name="txt3">Yeah, It works!! I deserve a beer</string>
+</resources>
